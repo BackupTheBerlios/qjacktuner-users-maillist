@@ -1,0 +1,22 @@
+From agrow at thegotonerd.com  Sun Feb  5 10:21:51 2006
+From: agrow at thegotonerd.com (Alan Grow)
+Date: Sun, 5 Feb 2006 03:21:51 -0600
+Subject: [Qjacktuner-users] thanks
+Message-ID: <20060205092151.GA75139@thegotonerd.com>
+
+Thanks for qjacktuner! I was casting about for a tuner that would work with jack and this one did on the first try. Wow, was my guitar ever out of whack...
+
+When it can't pick up a solid 1st harmonic though qjackctl jitters quite a lot. I'm not sure what the cause of this is, but maybe ignoring samples that do not have a "sufficiently dominant" harmonic would do the trick.
+
+Jitters aside, it worked. :) You should see if you can get qjacktuner into demudi / planet ccrma--that would bring it to a much wider audience.
+
+m.f.g.
+
+-- 
+Alan Grow
+Software Engineer / 
+Opensource Consultant
+402-304-0568
+
+
+
